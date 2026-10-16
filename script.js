@@ -10,9 +10,9 @@ function makeid(l) {
 			)
 		)
 	}
-	return res;
-}
+	return res; 
+}  
 
-// Do not change the code below.
-// const l = prompt("Enter a number.");
-// alert(makeid(l));
+// Do not change the code below. 
+const l = prompt("Enter a number.");
+alert(makeid(l));
